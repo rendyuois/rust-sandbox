@@ -1,0 +1,1 @@
+/home/rendi-dev/workshop/learn-7-day-rust-lang/Fundamental-Type/target/debug/fundamental-type: /home/rendi-dev/workshop/learn-7-day-rust-lang/Fundamental-Type/src/main.rs /home/rendi-dev/workshop/learn-7-day-rust-lang/Fundamental-Type/src/stringstype/mod.rs /home/rendi-dev/workshop/learn-7-day-rust-lang/Fundamental-Type/src/stringstype/strings.rs
