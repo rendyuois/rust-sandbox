@@ -1,1 +1,1 @@
-/home/rendi-dev/workshop/learn-7-day-rust-lang/struct/target/debug/Struct: /home/rendi-dev/workshop/learn-7-day-rust-lang/struct/src/main.rs
+/home/rendyuois/workshop/rust-sandbox/5-struct/target/debug/Struct: /home/rendyuois/workshop/rust-sandbox/5-struct/src/main.rs
